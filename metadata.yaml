@@ -1,0 +1,25 @@
+_repo: Samuel-Butler--A-Sketch_2993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jones, Henry Festing
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '1080'
+    url: http://www.gutenberg.org/2009/agents/1080
+description: ''
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Butler, Samuel, 1835-1902'
+- !lcsh 'Novelists, English -- 19th century -- Biography'
+- !lcc 'PR'
+- GITenberg
+title: 'Samuel Butler: A Sketch'
+url: http://www.gutenberg.org/ebooks/2993
